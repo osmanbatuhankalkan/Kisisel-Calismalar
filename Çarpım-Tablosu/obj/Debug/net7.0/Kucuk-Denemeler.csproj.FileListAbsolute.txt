@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/bin/Debug/net7.0/Kucuk-Denemeler
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/bin/Debug/net7.0/Kucuk-Denemeler.deps.json
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/bin/Debug/net7.0/Kucuk-Denemeler.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/bin/Debug/net7.0/Kucuk-Denemeler.dll
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/bin/Debug/net7.0/Kucuk-Denemeler.pdb
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.dll
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/refint/Kucuk-Denemeler.dll
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.pdb
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/Kucuk-Denemeler.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Kucuk-Denemeler/obj/Debug/net7.0/ref/Kucuk-Denemeler.dll
