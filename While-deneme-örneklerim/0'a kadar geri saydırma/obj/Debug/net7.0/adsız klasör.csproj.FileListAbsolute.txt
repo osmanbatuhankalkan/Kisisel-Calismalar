@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/bin/Debug/net7.0/adsız klasör
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/bin/Debug/net7.0/adsız klasör.deps.json
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/bin/Debug/net7.0/adsız klasör.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/bin/Debug/net7.0/adsız klasör.dll
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/bin/Debug/net7.0/adsız klasör.pdb
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.dll
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/refint/adsız klasör.dll
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.pdb
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/adsız klasör.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/adsız klasör/obj/Debug/net7.0/ref/adsız klasör.dll

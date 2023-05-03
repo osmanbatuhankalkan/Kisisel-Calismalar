@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/bin/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/bin/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.deps.json
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/bin/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/bin/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.dll
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/bin/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.pdb
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.dll
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/refint/Sıfırla-yüz-arası-tek-say-toplayan-program.dll
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.pdb
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/Sıfırla-yüz-arası-tek-say-toplayan-program.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Sıfırla-yüz-arası-tek-say-toplayan-program/obj/Debug/net7.0/ref/Sıfırla-yüz-arası-tek-say-toplayan-program.dll
