@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "O_Anki_Tarihin_Saniye_Degeri_Besin_Katıysa_Yazdıran_Program/1.0.0": {
+        "runtime": {
+          "O_Anki_Tarihin_Saniye_Degeri_Besin_Katıysa_Yazdıran_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "O_Anki_Tarihin_Saniye_Degeri_Besin_Katıysa_Yazdıran_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
