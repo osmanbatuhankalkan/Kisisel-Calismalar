@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/bin/Debug/net7.0/Alıştırma
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/bin/Debug/net7.0/Alıştırma.deps.json
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/bin/Debug/net7.0/Alıştırma.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/bin/Debug/net7.0/Alıştırma.dll
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/bin/Debug/net7.0/Alıştırma.pdb
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.dll
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/refint/Alıştırma.dll
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.pdb
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/Alıştırma.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Alıştırma/obj/Debug/net7.0/ref/Alıştırma.dll
