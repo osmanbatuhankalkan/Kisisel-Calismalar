@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/bin/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/bin/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.deps.json
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/bin/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/bin/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.dll
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/bin/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.pdb
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.dll
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/refint/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.dll
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.pdb
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı/obj/Debug/net7.0/ref/Tanimlanmis-Dizi-İcerisinde-Döngü-Kullanımı.dll
