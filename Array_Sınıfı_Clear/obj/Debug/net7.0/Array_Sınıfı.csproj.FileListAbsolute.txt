@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/bin/Debug/net7.0/Array_Sınıfı
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/bin/Debug/net7.0/Array_Sınıfı.deps.json
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/bin/Debug/net7.0/Array_Sınıfı.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/bin/Debug/net7.0/Array_Sınıfı.dll
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/bin/Debug/net7.0/Array_Sınıfı.pdb
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.dll
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/refint/Array_Sınıfı.dll
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.pdb
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/Array_Sınıfı.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Sınıfı/obj/Debug/net7.0/ref/Array_Sınıfı.dll
