@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/bin/Debug/net7.0/Array_Indexof
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/bin/Debug/net7.0/Array_Indexof.deps.json
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/bin/Debug/net7.0/Array_Indexof.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/bin/Debug/net7.0/Array_Indexof.dll
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/bin/Debug/net7.0/Array_Indexof.pdb
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.dll
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/refint/Array_Indexof.dll
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.pdb
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/Array_Indexof.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Array_Indexof/obj/Debug/net7.0/ref/Array_Indexof.dll
